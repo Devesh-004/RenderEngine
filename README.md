@@ -1,2 +1,10 @@
 # RenderEngine
-Creating a rendering engine using rust language
+Learning-
+- window creation
+- event loop
+- keyboard input
+- mouse input
+- frame buffer
+- drawing rectangle
+- drawing text
+- HTML Parser
